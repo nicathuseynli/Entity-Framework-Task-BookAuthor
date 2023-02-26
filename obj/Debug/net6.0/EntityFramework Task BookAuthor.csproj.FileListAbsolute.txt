@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.AssemblyInfo.cs
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\EntityFramework Task BookAuthor\EntityFramework Task BookAuthor\obj\Debug\net6.0\EntityFramework Task BookAuthor.MvcApplicationPartsAssemblyInfo.cache
